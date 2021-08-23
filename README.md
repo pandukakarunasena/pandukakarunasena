@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pandukakarunasena
-- 👀 I’m interested in problem solving and designing
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning React, Java, Android Studio
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 Send a message panduka.karunasena@gmail.com
