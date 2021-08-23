@@ -6,7 +6,6 @@
 
 ## Connect With Me
 
-[<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/web.svg" color="#FFF" />][website]
 [<img align="left" alt="maneeshaindrachapa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/linkedin.svg"/>][linkedin]
 <br>
 
@@ -26,7 +25,6 @@
 ## Stats
 [![Panduka Karunasena's github stats](https://github-readme-stats.vercel.app/api?username=pandukakarunasena&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandukakarunasena&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://pandukakarunasena.github.io/
 [linkedin]: https://www.linkedin.com/in/pandukakarunasena/
 
 <!---
