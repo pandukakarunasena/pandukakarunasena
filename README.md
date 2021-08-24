@@ -22,9 +22,6 @@
 <br>
 <br>
 
-## Stats
-[![Panduka Karunasena's github stats](https://github-readme-stats.vercel.app/api?username=pandukakarunasena&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandukakarunasena&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/pandukakarunasena/
 
 <!---
