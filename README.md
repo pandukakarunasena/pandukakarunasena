@@ -2,7 +2,6 @@
 
 - 👋 I’m @pandukakarunasena.
 - :factory_worker: I'm an Electrical engineering graduate/Software engineer.
-- 👀 I’m interested in Problem solving, Parallel worlds, Afterlife and about the things I can not comprehend. 
 - 🌱 I’m currently learning React, Android Studio, Computer security.
 - 💞️ I’m looking to collaborate with any kinda project.
 - :grin: I Can help you with Electrical engineering stuff as well.
